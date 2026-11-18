@@ -3,7 +3,4 @@ This repository contains the lecture materials from my guest lecture series on i
 If you spot any errors or mistakes, please do not hesitate to reach out via email (kacarson@arizona.edu)! I hope you find this helpful for 
 conducting your research (or teaching your own graduate courses on inferential network methods).
 
-![Demo Preview](https://www.dropbox.com/scl/fi/xy50vbi66nrs9rv0fh2hx/IMG_5624.PNG?rlkey=0cgbyt0ajftm7xvxo9fxd18j9&raw=1)\
-
-
-<img src="https://www.dropbox.com/scl/fi/xy50vbi66nrs9rv0fh2hx/IMG_5624.PNG?rlkey=0cgbyt0ajftm7xvxo9fxd18j9&raw=1" alt="Demo Preview" width="500">
+<img src="https://www.dropbox.com/scl/fi/xy50vbi66nrs9rv0fh2hx/IMG_5624.PNG?rlkey=0cgbyt0ajftm7xvxo9fxd18j9&raw=1" alt="Demo Preview" width="300">
